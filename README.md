@@ -1,5 +1,10 @@
 
-## Available Scripts
+# Getting Started with the App
+## Clone the repository 
+## Run 
+
+### `yarn install`
+to install all the dependencies. After the installation, run `yarn start` to start the local server. It will open a tab in browser with address http://localhost:3000
 
 In the project directory, you can run:
 
