@@ -1,0 +1,89 @@
+Name,Address,Lat,Lng,Area,Type
+"Max Super Speciality Hospital, Saket","1 2, Press Enclave Marg, Saket Institutional Area, Saket, New Delhi, Delhi 110017",28.5277928,77.211414,SOUTH_DELHI,PRIVATE
+"Max Super Speciality Hospital, Shalimar Bagh","FC 50, Max Wali Rd, C and D Block, Shalimar Place Site, Shalimar Bagh, New Delhi, Delhi 110088",28.7276905,77.1526506,NORTH_DELHI,PRIVATE
+"Max Multi Speciality Centre, Panchsheel Park","N 110, Block N, Panchsheel Park North, Panchsheel Park, New Delhi, Delhi 110017",28.543454,77.2144232,SOUTH_DELHI,PRIVATE
+"BLK-Max Super Speciality Hospital, Delhi","Pusa Rd, Radha Soami Satsang, Rajendra Place, New Delhi, Delhi 110005",28.6429608,77.1806168,CENTRAL_DELHI,PRIVATE
+"Max Multi Speciality Centre, Noida","A364, A Block, Pocket A, Sector 19, Noida, Uttar Pradesh 201301",28.5767599,77.3231094,NOIDA,PRIVATE
+"Max Super Speciality Hospital, Patparganj","108A, IP Ext, I.P.Extension, Patparganj, Delhi, 110092",28.6329328,77.3089793,EAST_DELHI,PRIVATE
+"Max Hospital, Gurgaon","B Block, Sushant Lok 1, Near Huda City Centre MF Husain Marg Near Huda City Centre, Sector 43, Gurugram, Haryana 122001",28.4706642,77.075241,GURGAON,PRIVATE
+"Max Super Speciality Hospital, Vaishali","W-3, Ashok Marg, near Radisson Blu Hotel, Sector-1, Vaishali, Ghaziabad, Uttar Pradesh 201012",28.6342681,77.3330497,EAST_DELHI,PRIVATE
+"Max Institute of Cancer Care, Lajpat Nagar","1st floor, 110024, Ring Rd, Vikram Vihar, Lajpat Nagar IV, Lajpat Nagar, New Delhi, Delhi 110024",28.5651378,77.2368784,CENTRAL_DELHI,PRIVATE
+Indraprastha Apollo Hospitals,"Sarita Vihar,Delhi Mathura Road, New Delhi – 110076 (India)",28.5319249,77.2869755,SOUTH_DELHI,PRIVATE
+"Apollo Hospitals, Noida","E 2, Sector 26 (Adjacent to Club 26), Noida – 201 301, Uttar Pradesh",28.5793962,77.334436,NOIDA,PRIVATE
+Artemis Hospital,"Sector 51, Gurugram, Haryana - 122001",28.4320397,77.0686159,GURGAON,PRIVATE
+"Fortis Cancer Institute, Defence Colony","E13 Ground Floor, Defence Colony, New Delhi, Delhi 110024",28.5625674,77.158872,SOUTH_DELHI,PRIVATE
+Fortis Hospital – Greater Noida,"Block D, Industrial Area, Surajpur Site 4, Greater Noida, Uttar Pradesh – 201310",28.4498118,77.5311297,NOIDA,PRIVATE
+"Fortis Escorts Heart Institute, Okhla Road","Okhla Road, New Delhi, Delhi 110025",28.5610738,77.2824684,CENTRAL_DELHI,PRIVATE
+"Fortis Memorial Research Institute, Gurugram","Sector - 44, Opposite HUDA City Centre, Gurugram, Haryana 122002",28.458172,77.072604,GURGAON,PRIVATE
+"Fortis Flt. Lt. Rajan Dhall Hospital, Vasant Kunj","Sector B, Pocket 1, Aruna Asaf Ali Marg,Vasant Kunj, New Delhi - 110070",28.526928,77.1614962,SOUTH_DELHI,PRIVATE
+"Fortis Hospital, Shalimar Bagh","Fortis Hospital, A Block, Shalimar Bagh, New Delhi, Delhi 110088",28.705282,77.169626,NORTH_DELHI,PRIVATE
+"Fortis Hospital, Noida","B-22, Sector 62, Gautam Buddh Nagar, Noida, Uttar Pradesh 201301",28.6188495,77.3724023,NOIDA,PRIVATE
+"Fortis Escorts Hospital, Faridabad","Neelam Bata Road, Opp. Neelam Cinema, Faridabad, Haryana 121001",28.39193,77.30543,FARIDABAD,PRIVATE
+"Fortis La Femme, Greater Kailash","S - 549, Greater Kailash - II, New Delhi, Delhi 110048",28.5291996,77.2439242,SOUTH_DELHI,PRIVATE
+"Fortis C-DOC, Chirag Enclave","B-16 Chirag Enclave, New Delhi -110048",28.5469785,77.2495323,SOUTH_DELHI,PRIVATE
+Sir Ganga Ram Hospital,"Sir Ganga Ram Hospital Marg, Old Rajinder Nagar, New Rajinder Nagar, New Delhi, Delhi 110060",28.6402321,77.1889135,CENTRAL_DELHI,PRIVATE
+Medanta Gurgaon,"CH Baktawar Singh Road, Sector 38, Gurugram, Haryana 122001",28.4397092,77.0425925,GURGAON,PRIVATE
+Medanta DLF,"Building No. 10C, Upper Ground Floor, DLF Cyber City, Phase II, Gurugram, Haryana 122002",28.4876667,77.0881034,GURGAON,PRIVATE
+Medanta defence colony,"E – 18, Defence Colony, New Delhi, Delhi 110024",28.5733536,77.2326497,CENTRAL_DELHI,PRIVATE
+Medanta Medicentre,"Indira Gandhi International Airport, New Delhi, Delhi 110037",28.5561624,77.0999578,WEST_DELHI,PRIVATE
+Medanta Moolchand,"Medanta-Moolchand Heart Centre Moolchand Medcity, South Delhi Lajpat Nagar III, Near Moolchand Metro Station, New Delhi 110 024",28.5674276,77.2397968,CENTRAL_DELHI,PRIVATE
+Medanta IT Park,"Plot No.- 743 P, Islampur Village Sector -38 Gurugram, Haryana 122018",28.4354839,77.037736,GURGAON,PRIVATE
+SCI international hospital,"M-4, M -Block, Landmark: M Block Market, Greater Kailash Part 1, Delhi",28.5367074,77.2446858,SOUTH_DELHI,PRIVATE
+Manipal Hospital,"Palam Vihar Colony, Sector 6, Near MTNL Office, Dwarka Sector 6, Delhi",28.5945391,77.0693951,WEST_DELHI,PRIVATE
+St Stephens Hospital,"St. Stephen's Hospital
+Near kashmiri Gate
+Tis Hazari, Delhi",28.6667971,77.2146145,NORTH_DELHI,PRIVATE
+Apollo Spectra,"66A, 2, New Rohtak Rd, near Liberty Cinema, Block 67, Karol Bagh, New Delhi, Delhi 110005",28.6583665,77.1936439,CENTRAL_DELHI,PRIVATE
+Apollo Spectra Hospitals,"R-2, Near, Nehru Place Flyover, Pocket 40/203 Nehru Enclave, Chittaranjan, Nehru Place, New Delhi, Delhi 110019",28.5458485,77.2499101,SOUTH_DELHI,PRIVATE
+Apollo Spectra Hospitals,"13, Kailash Rd, Sant Nagar, East of Kailash, New Delhi, Delhi 110065",28.5543013,77.2489548,SOUTH_DELHI,PRIVATE
+"Amrita Hospital, Faridabad","Mata Amritanandamayi Marg, RPS City, Sector 88, Faridabad, Haryana 121002",28.4296934,77.3560774,FARIDABAD,PRIVATE
+Maharaja Agrasen Hospital,"Plot No 1, Main Road, Dwarka Sector 1, Delhi - 110075, Near Bharat Petrol Pump & Palam Flyover",28.5296824,77.0673063,WEST_DELHI,PRIVATE
+Silverstreak Multispeciality Hospital,"Sector 90 Road, Gurgaon Sector 87, Gurgaon - 122505, Opposite Cng Pump",28.3938503,76.9336042,GURGAON,PRIVATE
+Pristyn Care,"Plot 448, 1st Floor, Dwarka, Sector 19, New Delhi, Delhi 110075",28.586014,77.049157,WEST_DELHI,PRIVATE
+"Columbia Asia, Palam Vihar","Columbia Asia Hospital, Block F, Gol Chakkar, Near Ansal Plaza Mall, Palam Vihar, Gurugram, Haryana 122017",28.5114567,77.0419641,GURGAON,PRIVATE
+Moolchand Medicity,"Moolchand Medicity,
+Lajpat Nagar -III,
+Near Moolchand Metro Station,
+New Delhi 110024",28.564012,77.234245,CENTRAL_DELHI,PRIVATE
+GB Pant Hospital,"1, Jawaharlal Nehru Marg, New Delhi, Delhi 110002, India",28.639301,77.2338941,CENTRAL_DELHI,PRIVATE
+"Dr. Ram Manohar Lohia Hospital, New Delhi","Baba Kharak Singh Marg, Connaught Place, New Delhi - 110001.",28.6293132,77.2118176,CENTRAL_DELHI,PRIVATE
+Lok Nayak Jai Prakash Narayan Hospital,"2, Near Delhi Gate,
+Jawaharlal Nehru Marg,
+New Delhi, Delhi 110002",28.6411903,77.2405826,CENTRAL_DELHI,PRIVATE
+Batra Hospital & Medical Research Centre,"1, Tughlakabad Institutional Area, Mehrauli Badarpur Road, Near Saket Metro Station, Tuglakabad, Delhi",28.5121156,77.245398,SOUTH_DELHI,PRIVATE
+Dharamshila Narayana Superspeciality Hospital,"Metro Station, Dharamshila marg, Vasundhara Enclave Near Ashok Nagar, Dallupura, New Delhi, Delhi 110096, New Ashok Nagar Metro Station, Vasundhra Enclave, Delhi",28.58916,77.30214,EAST_DELHI,PRIVATE
+Medeor Hospital,"B-33- 34., Near Katwaria Sarai, Qutab Institutional Area, Delhi",28.5419572,77.1876479,SOUTH_DELHI,PRIVATE
+Jaypee Hospital,"Jaypee Hospital Rd, Goberdhanpur, Sector 128, Noida, Uttar Pradesh 201304",28.5158732,77.3713351,NOIDA,PRIVATE
+"Aakash Healthcare, Dwarka, New Delhi",,28.63576,77.22445,CENTRAL_DELHI,PRIVATE
+"Asian Institute of Medical Sciences, Faridabad",,28.4259429,77.3000225,FARIDABAD,PRIVATE
+"Cloudnine Hospital, Sector 47, Gurgaon",,28.4601,77.02635,GURGAON,PRIVATE
+"Dharamshila Narayana Superspeciality Hospital, New Delhi",,28.6024541,77.3141628,EAST_DELHI,PRIVATE
+"Medeor Hospital, Qutab, New Delhi",,28.63576,77.22445,CENTRAL_DELHI,PRIVATE
+"Metro Hospital and Cancer Institute, Preet Vihar, New Delhi",,28.63576,77.22445,CENTRAL_DELHI,PRIVATE
+"Metro Hospital and Multispeciality Institute, Sector 11, Noida, Noida",,28.58,77.33,NOIDA,PRIVATE
+"Metro Hospital Park Group, Palam Vihar, Gurgaon",,28.4601,77.02635,GURGAON,PRIVATE
+"Metro Hospitals and Heart Institute, Lajpat Nagar, New Delhi",,28.63576,77.22445,CENTRAL_DELHI,PRIVATE
+"Metro Hospitals and Heart Institute, Sector 12, Noida",,28.58,77.33,NOIDA,PRIVATE
+"Narayana Superspeciality Hospital, Gurugram, Gurgaon",,28.4601,77.02635,GURGAON,PRIVATE
+"Paras Hospital, Gurgaon",,28.4509257,77.0876091,GURGAON,PRIVATE
+"Primus Super Speciality Hospital, New Delhi",,28.63576,77.22445,CENTRAL_DELHI,PRIVATE
+"Pushpawati Singhania Hospital and Research Institute, Delhi, New Delhi",,28.63576,77.22445,CENTRAL_DELHI,PRIVATE
+"Radiant Aesthetics Clinic, New Delhi",,28.63576,77.22445,CENTRAL_DELHI,PRIVATE
+"Rajiv Gandhi Cancer Hospitals, New Delhi",,28.63576,77.22445,CENTRAL_DELHI,PRIVATE
+"RG Hospital, Faridabad",,28.3879595,77.3059771,FARIDABAD,PRIVATE
+"RG Hospital, Gagan Vihar, New Delhi",,28.63576,77.22445,CENTRAL_DELHI,PRIVATE
+"RG Hospital, Rajouri Garden, New Delhi",,28.63576,77.22445,CENTRAL_DELHI,PRIVATE
+"Sarvodaya Hospital and Research Center, Ghaziabad",,28.66249,77.43777,GHAZIABAD,PRIVATE
+"Sarvodaya Hospital and Research Centre, Faridabad",,28.4222263,77.3167697,FARIDABAD,PRIVATE
+"Sitaram Bhartia Institute of Science and Research, New Delhi",,28.63576,77.22445,CENTRAL_DELHI,PRIVATE
+"W Pratiksha Hospital, Gurgaon",,28.4601,77.02635,GURGAON,PRIVATE
+AIIMS,"Sri Aurobindo Marg, Ansari Nagar, Ansari Nagar East, New Delhi, Delhi 110029",28.5650983,77.2077142,CENTRAL_DELHI,PUBLIC
+Janakpuri Super Speciality Hospital,"C2B, Janakpuri Lal Sai Mandir Marg Opposite Dussehra ground, New Delhi, Delhi 110058",28.621914,77.088193,WEST_DELHI,PUBLIC
+Dr Bhimrao Ambedkar Multispeciality Hospital,"H8GQ+J7J, Maharaja Agrasen Marg, near Delhi Public School, Indergarhi, Sector 30, Noida, Uttar Pradesh 201303",28.5773787,77.3373514,NOIDA,PUBLIC
+RAJIV GANDHI SUPER SPECIALITY HOSPITAL,"Taharpur Rd, Taharpur, Taharpur Village, Dilshad Garden, New Delhi, Delhi 110093",28.6863775,77.3185851,EAST_DELHI,PUBLIC
+Poornima Sethi Multi Speciality Hospital,"G7W5+388, Dd Block, Kalkaji Road, Kalkaji, near Nehru Place Sub Post Office, New Delhi, Delhi 110019",28.5497427,77.2555677,SOUTH_DELHI,PUBLIC
+District Government Multi Speciality Hospital,"Sector 39A, Sector 39, Noida, Uttar Pradesh 201303",28.5720533,77.3568485,NOIDA,PUBLIC
+Safdarjung Hospital,"Ansari Nagar East, near to AIIMS Metro Station, New Delhi, Delhi 110029",28.5668275,77.2081202,CENTRAL_DELHI,PUBLIC
+Maulana Azad Medical College (MAMC),"2, Bahadur Shah Zafar Marg, near Delhi Gate, Maulana Azad Medical College Campus, Balmiki Basti, New Delhi, Delhi 110002",28.6357833,77.2400213,CENTRAL_DELHI,PUBLIC
+Employees State Insurance Corporation Hospital,"Okhla Phase 1 Dsidc Sheds, Ma Anandmayee Marg, Okhla Industrial Estate, New Delhi, Delhi 110020",28.5227517,77.2758706,SOUTH_DELHI,PUBLIC
+Dr. Ram Manohar Lohia Hospital,"Baba Kharak Singh Rd, near Gurudwara Bangla Sahib, Ram Manohar Lohia Hospital, Type III, Connaught Place, New Delhi, Delhi 110001",28.6246432,77.2015376,CENTRAL_DELHI,PUBLIC
