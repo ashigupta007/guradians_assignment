@@ -34,17 +34,17 @@ export function NavigationButton(props){
 
 // component for generating emergency contacts form
 
-export function EmergencyContact() {
+export function EmergencyContact(props) {
     let temp = [];
-    for (let i = 0; i < this.props.value.length; i++) {
+    for (let i = 0; i < props.value.length; i++) {
       temp.push(
         <TxtInput
           onChange={(e) => {
-            var allContact = this.props.value;
+            var allContact = props.value;
             allContact[i] = e.target.value;
-            this.props.getContacts(allContact);
+            props.getContacts(allContact);
           }}
-          value={this.props.value[i]}
+          value={props.value[i]}
           title={"Emergency Contact " + (i + 1)}
           type="mobile_number"
           error_msg="Atleast 1 emergency mobile number must be provided and all numbers should be valid"
@@ -63,7 +63,7 @@ export function EmergencyContact() {
         <div>
           <Button
             onClick={() => {
-                this.props.add_new_contact()
+                props.add_new_contact()
             }}
           >
             Add more
